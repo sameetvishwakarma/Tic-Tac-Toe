@@ -3,36 +3,28 @@
     padding: 0;
 }
 
-.button{
-    
-}
-
 body {
     background: radial-gradient(lightyellow, skyblue);
     height: 600px;
 }
 
-
 .main {
     justify-items: center;
 }
 
-
 h1 {
     font-size: 45px;
-    margin-top: 2rem;
+    margin-top: 7px;
 }
-
 
 .user {
     margin-bottom: 35px;
     font-size: 23px;
-
 }
-
 
 .main{
     justify-items: center;
+    margin-top: 7px;
 }
 
 .container{
@@ -53,12 +45,9 @@ h1 {
     align-items: center;
 }
 
-
 .box:hover{
     background-color: aqua;
 }
-
-
 
 .btn {
     width: 82px;
@@ -66,7 +55,6 @@ h1 {
     font-size: 16px;
     margin-top: 26px;
 }
-
 
 @media only screen and (max-width: 768px) {
 
